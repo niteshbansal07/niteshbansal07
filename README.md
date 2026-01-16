@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitesh Bansal(@niteshbansal07)
--  Old Github: bansalnitesh
+- 📫 Old Github: bansalnitesh
 - 👀 I’m interested in ... Quantum Algortihms
 - 🌱 I’m currently learning ... Quantum Computing and AI
 - 💞️ I’m looking to collaborate on ... any QC AI or actuary realted projects
